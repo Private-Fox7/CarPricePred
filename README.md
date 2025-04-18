@@ -47,7 +47,7 @@ The model outputs:
 The model uses the Car Price Assignment dataset containing various automobile features and their corresponding prices.
 
 ## Author
-Private Fox
+Private-Fox7
 
 ## License
 MIT License - See LICENSE file for details
