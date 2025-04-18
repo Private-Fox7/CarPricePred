@@ -7,7 +7,7 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
 # Load the dataset
-carload = r'C:\Users\Private Fox\Downloads\CarPrice_Assignment.csv'
+carload = 'https://github.com/Private-Fox7/CarPricePred/blob/main/CarPrice_Assignment.csv'
 # Read the dataset
 car_data = pd.read_csv(carload)
 
